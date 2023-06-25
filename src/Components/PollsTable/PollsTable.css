@@ -1,0 +1,27 @@
+.PollsTable{
+    width: 100%;
+    
+}
+table{
+    width: 100%;
+    text-align: center;
+    
+}
+table,
+th,
+td {
+    border: none;
+    
+    border: 1px solid black;
+}
+th{
+    background-color: black;
+    color: white;
+    padding: 10px 0;
+    font-weight: bold;
+    font-size: 1.1rem;
+   
+}
+td{
+    padding: 15px 5px;
+}
